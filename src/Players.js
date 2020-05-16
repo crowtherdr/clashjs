@@ -12,7 +12,7 @@ module.exports = {
   team24: require("./players/team24"),
   dilbert: require("./players/dilbert"),
   // beasty: require("./players/beasty"),
-  neinobot: require('./players/neinobot')
+  neinobot: require('./players/neinobot'),
   somethingIntimidating: require("./players/somethingIntimidating"),
   superbeam: require("./players/superbeam"),
   team18: require("./players/team18"),
@@ -21,4 +21,5 @@ module.exports = {
   ninjaPuppies: require("./players/ninja-puppies"),
   rumba: require("./players/rumba"),
   jadestriker: require("./players/jadestriker"),
+  terminatorbot: require("./players/terminatorbot"),
 };
